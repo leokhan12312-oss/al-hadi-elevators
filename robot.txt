@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leokhan12312-oss.github.io/al-hadi-elevators/sitemap.xml
